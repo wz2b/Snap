@@ -9,3 +9,6 @@ C:\Users\dave\Documents\GitHub\Snap\Snap\obj\Debug\Screen_Grab.Properties.Resour
 C:\Users\dave\Documents\GitHub\Snap\Snap\obj\Debug\Snap.csproj.GenerateResource.Cache
 C:\Users\dave\Documents\GitHub\Snap\Snap\obj\Debug\snap.exe
 C:\Users\dave\Documents\GitHub\Snap\Snap\obj\Debug\snap.pdb
+C:\work\Snap\Snap\bin\Debug\snap.exe.config
+C:\work\Snap\Snap\obj\Debug\snap.exe
+C:\work\Snap\Snap\obj\Debug\snap.pdb
